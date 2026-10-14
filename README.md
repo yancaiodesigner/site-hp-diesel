@@ -32,7 +32,7 @@ Landing page profissional desenvolvida para a **HP Diesel Service** (Parauapebas
 
 ```
 Site HP Diesel/
-├── images/          # Imagens ilustrativas dos serviços da oficina
+├── images/          # Fotos reais da oficina, frota de caminhões, fachada e socorro móvel
 ├── index.html       # Estrutura completa da landing page e seções
 ├── styles.css       # Estilos customizados, identidade visual limpa e moderna
 ├── script.js        # Lógica de WhatsApp, triagem interativa, FAQ e tracking
